@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Outros exemplos comuns
+*.log
+*.env
+.DS_Store
+
+# VSCode
+.vscode
+
+# Embed
+my_sent_embed.pt
+
+# Dataset
+cola_public_1.1.zip
+cola_public/
+
+# Model
+model_save/
