@@ -16,17 +16,26 @@ $ pip install -r requirements.txt
 
 ## Execução do Notebook
 
-Para executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/Classifier/blob/main/processing.ipynb) no Google Colab basta baixar o [IMDB Dataset.csv](https://github.com/charlesluizmendes/Classifier/blob/main/data/IMDB%20Dataset.csv) e seguir os passos abaixo:
+Primeiramente devemos criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/preview.ipynb):
 
 - Menu 'Arquivo'
 - Clicar em 'Fazer upload do notebook'
-- Clicar em no Menu Lateral 'Arquivos'
-- Criar uma pasta '/data'
-- Dentro da pasta criada acima clicar em 'Upload'
+- Menu 'Ambiente de execução'
+- Clicar em 'Executar tudo'
+
+Após criar o dataset, basta executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/processing.ipynb):
+
+- Menu 'Arquivo'
+- Clicar em 'Fazer upload do notebook'
 - Menu 'Ambiente de execução'
 - Clicar em 'Executar tudo'
 
 Caso queira executar o notebook no VSCode bastar:
 
-- Abrir o notebook [processing.ipynb](https://github.com/charlesluizmendes/Classifier/blob/main/processing.ipynb)
+Primeiramente criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/preview.ipynb):
+
+- Clicar em 'Run All'
+
+Abrir o notebook [processing.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/processing.ipynb):
+
 - Clicar em 'Run All'
