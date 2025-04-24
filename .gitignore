@@ -18,6 +18,7 @@ my_sent_embed.pt
 
 # Dataset
 dataset/
+cola_public_1.1.zip
 
 # Model
 model/
