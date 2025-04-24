@@ -18,6 +18,7 @@ my_sent_embed.pt
 
 # Dataset
 dataset/
+imdb-dataset-of-50k-movie-reviews.zip
 
 # Model
 model/
