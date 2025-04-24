@@ -16,14 +16,14 @@ $ pip install -r requirements.txt
 
 ## Execução do Notebook
 
-Primeiramente devemos criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/preview.ipynb):
+Primeiramente devemos criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/NLP/blob/imdb/src/preview.ipynb):
 
 - Menu 'Arquivo'
 - Clicar em 'Fazer upload do notebook'
 - Menu 'Ambiente de execução'
 - Clicar em 'Executar tudo'
 
-Após criar o dataset, basta executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/processing.ipynb):
+Após criar o dataset, basta executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/NLP/blob/imdb/src/processing.ipynb):
 
 - Menu 'Arquivo'
 - Clicar em 'Fazer upload do notebook'
@@ -32,10 +32,10 @@ Após criar o dataset, basta executar o notebook [processing.ipynb](https://gith
 
 Caso queira executar o notebook no VSCode bastar:
 
-Primeiramente criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/preview.ipynb):
+Primeiramente criar o dataset [preview.ipynb](https://github.com/charlesluizmendes/NLP/blob/imdb/src/preview.ipynb):
 
 - Clicar em 'Run All'
 
-Abrir o notebook [processing.ipynb](https://github.com/charlesluizmendes/SentimentAnalysis/blob/main/processing.ipynb):
+Abrir o notebook [processing.ipynb](https://github.com/charlesluizmendes/NLP/blob/imdb/src/processing.ipynb):
 
 - Clicar em 'Run All'
