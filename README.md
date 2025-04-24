@@ -1,13 +1,19 @@
-# Ambiente 
+# Projetos 
 
-## Instalando Pacotes
+## CoLA
 
-No diretório raiz (./) execute o comando abaixo:
+Projeto de análise de sentimentos utilizando dataset do CoLA.
 
-```
-$ pip install -r requirements.txt
-```
+branch [CoLA](https://github.com/charlesluizmendes/NLP/tree/cola)
 
-### Pacotes Instalados
+## ifood
 
-* O modelo BERT foi criando utlizando CUDA, para acelerar o treinamento e classificação. 
+Projeto de análise de sentimentos utilizando dataset do ifood.
+
+branch [ifood](https://github.com/charlesluizmendes/NLP/tree/ifood)
+
+## IMDB
+
+Projeto de análise de sentimentos utilizando dataset do IMDB.
+
+branch [IMDB](https://github.com/charlesluizmendes/NLP/tree/imdb)
