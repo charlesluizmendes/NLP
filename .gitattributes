@@ -1,3 +1,0 @@
-*.py linguist-language=python
-*.pth linguist-language=python
-*.ipynb linguist-language=jupyter-notebook
